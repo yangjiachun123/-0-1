@@ -3,7 +3,7 @@ int main()
 {
    int x;
    int cnt=0;
-   for(x=2;cnt<10;x++)
+   for(x=2;cnt<50;x++)
    {int im=0;
       int i;
       for(i=2;i<x;i++)
@@ -21,5 +21,5 @@ int main()
       }
       
    }
-
+printf("\n");
 }
